@@ -42,41 +42,4 @@ onUnmounted(() => {
 </template>
 
 <style scoped>
-/* .sakura-container {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    pointer-events: none;
-    z-index: 999;
-}
-
-.sakura {
-    position: absolute;
-    top: -50px;
-    background-color: #FFB7C5;
-    border-radius: 50%;
-    animation: fall linear forwards;
-    opacity: 0.7;
-    box-shadow: 0 0 10px rgba(255, 183, 197, 0.5);
-}
-
-@keyframes fall {
-    0% {
-        transform: translateY(0) rotate(0deg);
-    }
-    25% {
-        transform: translateY(25vh) rotate(180deg) translateX(100px);
-    }
-    50% {
-        transform: translateY(50vh) rotate(360deg) translateX(-100px);
-    }
-    75% {
-        transform: translateY(75vh) rotate(540deg) translateX(100px);
-    }
-    100% {
-        transform: translateY(105vh) rotate(720deg);
-    }
-} */
 </style> 

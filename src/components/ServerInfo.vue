@@ -33,39 +33,5 @@
 </template>
 
 <style scoped>
-/* .server-info {
-    text-align: center;
-    padding: 20px 20px;
-    background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9));
-    margin-top: 40px;
-    border-radius: 15px;
-    display: flex;
-    align-items: center;
-    gap: 30px;
-    justify-content: center;
-}
-
-.info-card {
-    flex: 0 1 auto;
-    text-align: left;
-    background: rgba(255, 255, 255, 0.9);
-    padding: 25px 40px;
-    border-radius: 15px;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-}
-
-.info-item {
-    display: flex;
-    align-items: center;
-    margin: 15px 0;
-    font-size: 1.1em;
-}
-
-.info-item i {
-    font-size: 1.3em;
-    margin-right: 15px;
-    color: #FFB7C5;
-    width: 30px;
-} */
-
+ 
 </style>

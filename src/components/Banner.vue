@@ -46,31 +46,5 @@ initSlider();
 </template>
 
 <style scoped>
-/* .banner-container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 20px;
-}
-
-.banner {
-    position: relative;
-    overflow: hidden;
-    width: 100%;
-    height: 400px;
-    margin-top: 20px;
-}
-
-.slider {
-  display: flex;
-  transition: transform 1s ease-in-out; 
-  width: 100%; 
-}
-
-.slide {
-  flex-shrink: 0; 
-  width: 100%; 
-  height: 400px; 
-  object-fit: cover; 
-} */
 
 </style>

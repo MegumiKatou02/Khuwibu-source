@@ -27,27 +27,5 @@
 </template>
 
 <style scoped>
-/* .server-info {
-    text-align: center;
-    padding: 20px 20px;
-    background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9));
-    margin-top: 40px;
-    border-radius: 15px;
-    display: flex;
-    align-items: center;
-    gap: 30px;
-    justify-content: center;
-}
-.server-info h1 {
-    font-size: 3.5em;
-    margin-bottom: 40px;
-    background: linear-gradient(45deg, #ff758f, #ff99ac);
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    text-shadow: 3px 3px 6px rgba(255, 117, 143, 0.2);
-    font-weight: 800;
-    letter-spacing: 1px;
-    animation: titleFadeIn 1s ease-out;
-} */
+
 </style>

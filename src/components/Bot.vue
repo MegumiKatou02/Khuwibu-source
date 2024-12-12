@@ -33,41 +33,5 @@
 </template>
 
 <style scoped>
-/* .bot-container {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    padding: 20px;
-}
-
-.bot-card {
-    background: rgba(255, 255, 255, 0.1);
-    border-radius: 10px;
-    padding: 20px;
-    text-align: center;
-    backdrop-filter: blur(5px);
-}
-
-.bot-card img {
-    width: 120px;
-    height: 120px;
-    border-radius: 50%;
-    margin-bottom: 15px;
-}
-
-.invite-button {
-    display: inline-block;
-    background: #FFB7C5;
-    color: white;
-    padding: 10px 20px;
-    border-radius: 5px;
-    text-decoration: none;
-    margin-top: 15px;
-    transition: background 0.3s;
-}
-
-.invite-button:hover {
-    background: #FF9AAC;
-} */
 
 </style>
